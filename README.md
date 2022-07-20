@@ -1,6 +1,6 @@
 # tp_git_PallaviBhowaneedin
 
-1. Telecharger le fichier zip des versions que vous désirez
+1. Aller sur branche dev et telecharger le fichier zip des versions que vous désirez
 
 2. Apres le téléchargement, décompressez le fichier et sauvegarder le dans un dossier que vous voulez
 
